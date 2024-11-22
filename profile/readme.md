@@ -1,0 +1,3 @@
+Hi there! I'm <span itemprop="name" itemtype="https://schema.org/Person" itemid="https://www.bernardoforcillo.com/#person">[Bernardo](https://github.com/bernardoforcillo/bernardoforcillo) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, the founder of [headlessbuilder](https://github.com/headlessbuilder). I'm on a mission to build and maintain the best toolchain out there, so you can ship your next projects faster than ever!
+
+I build and maintain the most open-source projects and libraries I can find, which I use for building my own projects and those of my clients.
